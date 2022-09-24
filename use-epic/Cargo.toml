@@ -1,0 +1,9 @@
+[package]
+name = "use-epic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dioxus = { version = "0.2.4" }
+futures = "0.3"
+pin-utils = "0.1"
